@@ -5,6 +5,7 @@
 
 `
 $ npm install react-native-webview --save
+
 $ npm install react-native-webview-fullscreen --save
 `
 
@@ -12,6 +13,7 @@ $ npm install react-native-webview-fullscreen --save
 
 `
 $ react-native link react-native-webview
+
 $ react-native link react-native-webview-fullscreen
 `
 
