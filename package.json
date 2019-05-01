@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-webview-fullscreen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native WebView with Fullscreen",
   "main": "index.js",
   "homepage": "https://github.com/creamcookie/react-native-webview-fullscreen",
