@@ -8,8 +8,7 @@
 [![github closed issues](https://img.shields.io/github/issues-closed/trabricks/react-native-webview-fullscreen.svg?style=flat-square&colorB=44cc11)](https://github.com/trabricks/react-native-webview-fullscreen/issues?q=is%3Aissue+is%3Aclosed)
 [![Issue Stats](https://img.shields.io/issuestats/i/github/trabricks/react-native-webview-fullscreen.svg?style=flat-square&colorB=44cc11)](http://github.com/trabricks/react-native-webview-fullscreen/issues)
 
-
-Android Webview For HTML5 Fullscreen
+Android HTML5 fullscreen support for react-native-webview
 
 
 ## Getting started
