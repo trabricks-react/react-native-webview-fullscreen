@@ -1,13 +1,16 @@
 
 {
   "name": "react-native-webview-fullscreen",
-  "version": "1.0.2",
-  "description": "React Native WebView with Fullscreen",
+  "version": "1.0.3",
+  "description": "Android HTML5 fullscreen support for react-native-webview",
   "main": "index.js",
-  "homepage": "https://github.com/creamcookie/react-native-webview-fullscreen",
+  "bugs": {
+    "url": "https://github.com/trabricks/react-native-webview-fullscreen/issues"
+  },
+  "homepage": "https://github.com/trabricks/react-native-webview-fullscreen",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creamcookie/react-native-webview-fullscreen.git"
+    "url": "git+https://github.com/trabricks/react-native-webview-fullscreen.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +19,7 @@
     "react-native",
     "react-native-webview",
     "youtube",
+    "vimeo",
     "android",
     "fullscreen"
   ],
